@@ -1,0 +1,25 @@
+﻿.header{
+    background-color:aliceblue;
+    text-align:center;
+}
+
+.footer{
+    background-color:aqua;
+    text-align:center;
+}
+.leftMenu{
+    height:500px;
+    width:150px;
+    background-color:azure;
+}
+
+.mainContent{
+    height:500px;
+    width:650px;
+    background-color:aquamarine;
+}
+
+.a{
+    display:block;
+    padding:5px;
+}
